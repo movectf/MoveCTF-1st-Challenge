@@ -1,0 +1,2 @@
+# Checkin
+This is a simple challenge, follow the steps below to complete the challenge. The goal is calling the get_flag() function to trigger a Flag event, and submit the transaction hash to get the flag.

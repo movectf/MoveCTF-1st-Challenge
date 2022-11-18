@@ -1,0 +1,2 @@
+# SimpleGame
+This is a simple game challenge, try to beat the boss and get treasury box, and open box to get the flag. Follow the steps below to complete the challenge. The goal is calling the get_flag() function to trigger a Flag event, and submit the transaction hash to get the flag.
